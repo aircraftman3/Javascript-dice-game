@@ -1,4 +1,4 @@
-# Javascript-dice-game2
+# A-Javascript-dice-game
 
 GAME RULES:
 
